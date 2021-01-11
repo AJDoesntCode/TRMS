@@ -22,7 +22,6 @@ TRMS, or Tuition Reimbursement Management System is a full-stack web application
 
 ### Testing
 * JUnit
-* Mockito
 
 
 ## Features
