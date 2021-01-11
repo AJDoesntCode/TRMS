@@ -1,4 +1,4 @@
-# PROJECT NAME
+# TRMS (Tuition Reimbursement Management System
 
 ## Project Description
 
